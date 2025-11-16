@@ -1,0 +1,13 @@
+#top-banner a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 50px;
+}
+
+#top-banner a:hover {
+    background-color: lightblue;
+    color: white;
+    text-decoration: underline;
+}
