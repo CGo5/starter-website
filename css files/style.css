@@ -1,16 +1,27 @@
 img {
     width: 200px;
 }
+/* top banner styles */
+body {
+    margin: 0;
+}
 
+#top-banner {
+    background-color: #add8e6;
+    font-size: 30px;
+    padding: 20px;
+}
+
+/* font stuff */
 body {
     text-align: center;
     font-family: 'Verdana, Geneva, Tahoma, sans-serif';
-    color: rgb(119, 255, 0);
-    background-color: #6f0fbe50;
+    color: #4b0082;
+    background-color: #e6adad;
 }
 
 a { 
-    color: rgb(119, 255, 0);
+    color: #4b0082;
     text-decoration: none;
 }
 
