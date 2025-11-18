@@ -38,3 +38,21 @@ a:hover {
 h1 {
     font-family: 'Impact, sans-serif';
 }
+
+/* footer stuff */
+
+#footerstuff {
+    background-color: #add8e6;
+    font-size: 30px;
+    color: #ffffff;
+    padding: 20px;
+}
+
+#footerstuff a {
+    color: white;
+    text-decoration: none;
+}
+
+#footerstuff a:hover {
+    text-decoration: underline;
+}
